@@ -1,3 +1,5 @@
+#criar uma api que retorne uma mensagem de boas vindas
+
 from fastapi import FastAPI
 
 app = FastAPI()
